@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "jquery.facedetection": "^2.0.3"
+  }
+}
